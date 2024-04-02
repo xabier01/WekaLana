@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a62b2e7-e09a-4d2e-8637-a68c7a17f54b" name="Changes" comment="" />
+    <list default="true" id="7a62b2e7-e09a-4d2e-8637-a68c7a17f54b" name="Changes" comment="Aurreprozesamendua eginda (ez dakit ondo dagoen)">
+      <change beforePath="$PROJECT_DIR$/WekaLanaa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/WekaLana.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,9 +27,34 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/home/xabier/Escritorio/Weka lana/WekaLanaa/src/Main.java"
+    "last_opened_file_path": "/home/xabier/Escritorio/weka-3-8-6-azul-zulu-linux/weka-3-8-6/weka.jar",
+    "onboarding.tips.debug.path": "/home/xabier/Escritorio/Weka lana/WekaLanaa/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="WekaLana" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="WekaLana" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -44,17 +71,28 @@
       <option name="presentableId" value="Default" />
       <updated>1712078994412</updated>
     </task>
+    <task id="LOCAL-00001" summary="Aurreprozesamendua eginda (ez dakit ondo dagoen)">
+      <option name="closed" value="true" />
+      <created>1712079221631</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712079221631</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Aurreprozesamendua eginda (ez dakit ondo dagoen)">
+      <option name="closed" value="true" />
+      <created>1712079288596</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712079288596</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="k" />
+    <MESSAGE value="Aurreprozesamendua eginda (ez dakit ondo dagoen)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aurreprozesamendua eginda (ez dakit ondo dagoen)" />
   </component>
 </project>
