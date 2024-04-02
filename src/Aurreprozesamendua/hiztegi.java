@@ -50,6 +50,7 @@ public class hiztegi {
             }
         }
 
+
         // Imprimir el diccionario
         System.out.println("Diccionario de palabras con frecuencias:");
         for (Map.Entry<String, Integer> entry : dictionary.entrySet()) {
