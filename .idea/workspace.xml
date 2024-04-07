@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a62b2e7-e09a-4d2e-8637-a68c7a17f54b" name="Changes" comment="tenia una cosa de las baldintzak mal">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aurreprozesamendua/arff2bow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aurreprozesamendua/arff2bow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aurreprozesamendua/fssInfoGain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aurreprozesamendua/fssInfoGain.java" afterDir="false" />
-    </list>
+    <list default="true" id="7a62b2e7-e09a-4d2e-8637-a68c7a17f54b" name="Changes" comment="AttributeSelection, InfoGainAttributeEval y Ranker (hay que mirarlo)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +24,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -157,10 +154,62 @@
       <option name="project" value="LOCAL" />
       <updated>1712527780290</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="SparseToNonSparse y Reorder (hay que mirarlo)">
+      <option name="closed" value="true" />
+      <created>1712527905042</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712527905042</updated>
+    </task>
+    <task id="LOCAL-00011" summary="SparseToNonSparse y Reorder (hay que mirarlo)">
+      <option name="closed" value="true" />
+      <created>1712528055999</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712528055999</updated>
+    </task>
+    <task id="LOCAL-00012" summary="AttributeSelection, InfoGainAttributeEval y Ranker (hay que mirarlo)">
+      <option name="closed" value="true" />
+      <created>1712528172517</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712528172517</updated>
+    </task>
+    <task id="LOCAL-00013" summary="AttributeSelection, InfoGainAttributeEval y Ranker (hay que mirarlo)">
+      <option name="closed" value="true" />
+      <created>1712528230407</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712528230407</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -189,6 +238,8 @@
     <MESSAGE value="Hiztegia imprimatzen da baina ez train.arff sartuta (BoV eta FSS-rekin egin behar da)" />
     <MESSAGE value="Hiztegia imprimatzen da baina train.arff sartuta (BoV eta FSS-rekin egin behar da)" />
     <MESSAGE value="tenia una cosa de las baldintzak mal" />
-    <option name="LAST_COMMIT_MESSAGE" value="tenia una cosa de las baldintzak mal" />
+    <MESSAGE value="SparseToNonSparse y Reorder (hay que mirarlo)" />
+    <MESSAGE value="AttributeSelection, InfoGainAttributeEval y Ranker (hay que mirarlo)" />
+    <option name="LAST_COMMIT_MESSAGE" value="AttributeSelection, InfoGainAttributeEval y Ranker (hay que mirarlo)" />
   </component>
 </project>
