@@ -32,7 +32,5 @@ public class fssInfoGain {
         saver.setInstances(filteredData);
         saver.setFile(new File(args[1]));
         saver.writeBatch();
-
-
     }
 }
