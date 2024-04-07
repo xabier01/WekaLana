@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a62b2e7-e09a-4d2e-8637-a68c7a17f54b" name="Changes" comment="Hiztegia imprimatzen da baina ez train.arff sartuta (BoV eta FSS-rekin egin behar da)">
-      <change afterPath="$PROJECT_DIR$/src/Aurreprozesamendua/hiztegi.java" afterDir="false" />
+    <list default="true" id="7a62b2e7-e09a-4d2e-8637-a68c7a17f54b" name="Changes" comment="tenia una cosa de las baldintzak mal">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aurreprozesamendua/arff2bow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aurreprozesamendua/arff2bow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aurreprozesamendua/fssInfoGain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aurreprozesamendua/fssInfoGain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="xabier01 &lt;xabieraramburu3@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -32,22 +38,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Unnamed.executor": "Run",
-    "Application.hiztegiBoWFSS.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/xabier/Escritorio/Weka lana/WekaLana",
-    "onboarding.tips.debug.path": "/home/xabier/Escritorio/Weka lana/WekaLanaa/src/Main.java",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hiztegiBoWFSS.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/xabier/Escritorio/Weka lana/WekaLana&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/xabier/Escritorio/Weka lana/WekaLanaa/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -111,13 +117,78 @@
       <option name="project" value="LOCAL" />
       <updated>1712082031614</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Hiztegia imprimatzen da baina train.arff sartuta (BoV eta FSS-rekin egin behar da)">
+      <option name="closed" value="true" />
+      <created>1712082063429</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712082063429</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Hiztegia imprimatzen da baina train.arff sartuta (BoV eta FSS-rekin egin behar da)">
+      <option name="closed" value="true" />
+      <created>1712082180703</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712082180703</updated>
+    </task>
+    <task id="LOCAL-00007" summary="tenia una cosa de las baldintzak mal">
+      <option name="closed" value="true" />
+      <created>1712527487067</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712527487067</updated>
+    </task>
+    <task id="LOCAL-00008" summary="tenia una cosa de las baldintzak mal">
+      <option name="closed" value="true" />
+      <created>1712527592593</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712527592593</updated>
+    </task>
+    <task id="LOCAL-00009" summary="tenia una cosa de las baldintzak mal">
+      <option name="closed" value="true" />
+      <created>1712527780290</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712527780290</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="k" />
     <MESSAGE value="Aurreprozesamendua eginda (ez dakit ondo dagoen)" />
     <MESSAGE value="Hiztegia imprimatzen da baina ez train.arff sartuta (BoV eta FSS-rekin egin behar da)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hiztegia imprimatzen da baina ez train.arff sartuta (BoV eta FSS-rekin egin behar da)" />
+    <MESSAGE value="Hiztegia imprimatzen da baina train.arff sartuta (BoV eta FSS-rekin egin behar da)" />
+    <MESSAGE value="tenia una cosa de las baldintzak mal" />
+    <option name="LAST_COMMIT_MESSAGE" value="tenia una cosa de las baldintzak mal" />
   </component>
 </project>

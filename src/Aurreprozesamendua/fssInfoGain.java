@@ -27,7 +27,7 @@ public class fssInfoGain {
         attributeSelection.setSearch(ranker);
         attributeSelection.setInputFormat(data);
         Instances filteredData = Filter.useFilter(data, attributeSelection);
-        System.out.println("Atributu kopurua berria train: " + (filteredData.numAttributes() - 1));
+        System.out.println("Atributu kopuru berria train: " + (filteredData.numAttributes() - 1));
         ArffSaver saver = new ArffSaver();
         saver.setInstances(filteredData);
         saver.setFile(new File(args[1]));
