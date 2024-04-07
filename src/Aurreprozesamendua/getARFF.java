@@ -18,7 +18,7 @@ public class getARFF{
                 System.out.println("    Sartutako .arff fitxategian .txt-ko datuak izatea formatu egokian.");
                 System.out.println("    Sartutako 0 argumentua train bada --> \"testua\", klasea egituradun .arff fitxategia lortu.");
                 System.out.println("    Sartutako 0 argumentua dev bada --> \"testua\", klasea egituradun .arff fitxategia lortu.");
-                System.out.println("    Sartutako 0 argumentua test (blind) bada --> Test blind-ean klasea iragarri nahi dugunez .arff fitxategian testua baino ez dugu izango.");
+                System.out.println("    Sartutako 0 argumentua test (blind) bada --> Test blind-ean klasea iragarri nahi dugunez .arff fitxategian testua baiño ez dugu izango.");
             } else {
                 BufferedReader reader = new BufferedReader(new FileReader(args[0]));
                 BufferedWriter writer = new BufferedWriter(new FileWriter(args[1]));
