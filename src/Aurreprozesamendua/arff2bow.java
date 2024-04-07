@@ -64,6 +64,6 @@ public class arff2bow {
         saver.setFile(new File(args[1]));
         saver.writeBatch();
 
-        System.out.println("El archivo ARFF con el filtro StringToWordVector aplicado ha sido guardado exitosamente.");
+        System.out.println("El archivo .ARFF con el filtro StringToWordVector aplicado ha sido guardado exitosamente.");
     }
 }
